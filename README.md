@@ -6,7 +6,7 @@ Simple vanilla JavaScript calculator
 + CSS;
 + Vanilla JS;
 
-## How it's work in IRL?
+## How it's work IRL?
 You can [try](https://daniilshat.ru/projects/calculator/calc.html) it
 
 ## Screenshots 
